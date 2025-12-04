@@ -64,7 +64,3 @@ streamlit run app.py
 [ ] Scale: Implement FAISS for approximate nearest neighbor search to handle 10M+ nodes.
 [ ] Temporal: Add TGN (Temporal Graph Networks) to weight recent interactions higher than old ones.
 [ ] Ops: Containerize with Docker and deploy via TorchServe for low-latency API access.
-
-    ├── data_gen.py        # ETL: Generates Scale-Free Social Graphs
-    ├── model.py           # ML: GraphSAGE Architecture (Enc/Dec)
-    └── visualizer.py      # UX: Interactive Plotly Rendering Logic
