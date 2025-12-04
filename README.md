@@ -21,8 +21,6 @@ Unlike traditional Transductive models (like standard GCNs) that require retrain
 ---
 
 ## 📸 Dashboard Preview
-
-*(Place your `screenshot.png` here. Example below)*
 ![NeuroGraph Dashboard](screenshot.png)
 
 ---
